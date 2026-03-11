@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0090-subsets-ii) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0451-sort-characters-by-frequency) |
+## Math
+|  |
+| ------- |
+| [1822-sign-of-the-product-of-an-array](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/1822-sign-of-the-product-of-an-array) |
 <!---LeetCode Topics End-->
