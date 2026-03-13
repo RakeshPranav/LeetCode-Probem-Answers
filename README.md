@@ -43,5 +43,10 @@
 ## Math
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/1822-sign-of-the-product-of-an-array) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
