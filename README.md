@@ -49,4 +49,8 @@
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/1688-count-of-matches-in-tournament) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
