@@ -87,4 +87,20 @@
 | [1757-recyclable-and-low-fat-products](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/1757-recyclable-and-low-fat-products) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
