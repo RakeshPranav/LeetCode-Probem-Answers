@@ -19,14 +19,17 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
