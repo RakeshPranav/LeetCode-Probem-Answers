@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0090-subsets-ii) |
+| [0704-binary-search](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0704-binary-search) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Backtracking
 |  |
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0100-same-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
