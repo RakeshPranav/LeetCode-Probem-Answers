@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0090-subsets-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0704-binary-search) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -111,6 +112,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
