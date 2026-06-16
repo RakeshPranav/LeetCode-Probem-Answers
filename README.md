@@ -11,6 +11,7 @@
 | [0283-move-zeroes](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0704-binary-search) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0283-move-zeroes) |
+## Number Theory
+|  |
+| ------- |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 <!---LeetCode Topics End-->
