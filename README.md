@@ -11,6 +11,7 @@
 | [0283-move-zeroes](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0724-find-pivot-index) |
+| [1207-unique-number-of-occurrences](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/1207-unique-number-of-occurrences) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Backtracking
@@ -26,6 +27,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0451-sort-characters-by-frequency) |
+| [1207-unique-number-of-occurrences](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/1207-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
