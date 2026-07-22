@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0001-two-sum) |
 | [0090-subsets-ii](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0283-move-zeroes) |
@@ -25,6 +26,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0451-sort-characters-by-frequency) |
 | [1207-unique-number-of-occurrences](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/1207-unique-number-of-occurrences) |
