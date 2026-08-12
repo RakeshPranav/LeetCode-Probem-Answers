@@ -33,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
@@ -133,4 +134,12 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0724-find-pivot-index) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
