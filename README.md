@@ -22,6 +22,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0090-subsets-ii) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
@@ -56,12 +58,14 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0067-add-binary) |
 | [1688-count-of-matches-in-tournament](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0067-add-binary) |
 | [1688-count-of-matches-in-tournament](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/1688-count-of-matches-in-tournament) |
 ## Database
 |  |
