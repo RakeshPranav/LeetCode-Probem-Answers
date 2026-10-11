@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0001-two-sum) |
 | [0090-subsets-ii](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0724-find-pivot-index) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0451-sort-characters-by-frequency) |
 | [1207-unique-number-of-occurrences](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/1207-unique-number-of-occurrences) |
@@ -41,6 +43,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -54,6 +57,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
@@ -146,4 +150,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RakeshPranav/LeetCode-Probem-Answers/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
